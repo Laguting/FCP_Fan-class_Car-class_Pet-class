@@ -1,9 +1,9 @@
 # Setup class fan
 class Fan():
     # Three constants name slow, medium, and fast
-    slow = 1
-    medium = 2
-    fast = 3
+    slow = (1, " - Slow")
+    medium = (2,  " - Medium")
+    fast = (3,  " - Fast")
     # Four data fields setup as private members
     def __init__(self, speed = 1, power = False, radius = 5, color = "Blue"):
         self.__speed = speed

@@ -3,11 +3,12 @@ from termcolor import colored
 from tqdm import tqdm
 import time 
 class designs():
-# brand of the fan
-    def __init__(self, brand, welcome, loading):
+    def __init__(self, brand, welcome, loading, closing):
         self.__brand = brand
         self.__welcome = welcome
         self.__loading = loading
+        self.__closing = closing
+# brand of the fan
     def get_brand(self):
         fan_bd = Figlet(font = "SMslant", justify = "right")
         print()
@@ -37,3 +38,13 @@ class designs():
         print("⚜ " * 89)
         print()
         return self.__loading
+# Closed the program
+    def closing_fan(self):
+        close_fan = Figlet(font = "slant")
+        print("\n\33[35m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \33[0m")
+        print()
+        print(colored(close_fan.renderText("                        Closing......"), "magenta"))
+        print("\n\33[35m\33[3m\33[1m                                                                 Until next time!... '૮₍ •⤙ •˶|\33[0m")
+        print()
+        print("⚜ " * 89)
+        return self.__closing

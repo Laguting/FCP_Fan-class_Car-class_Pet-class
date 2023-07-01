@@ -4,16 +4,28 @@
 from Fan_class import Fan
 from Designs import designs
 class Testfan():
-    # designs
-    de_1 = designs("","","")
+# designs
+    de_1 = designs("","","","")
     print(de_1.get_brand()) # Display of the brand
     print(de_1.show_welcome()) # Welcome the user
     print(de_1.loading_bar()) # show the initiation of the fan
-    # test fans
+# test fans
+    # Fan 1
     fan_1 = Fan(speed = Fan.fast, power = True, radius = 10, color="Yellow")
-    print("\33[31m\33[1m --------Fan 1---------- \33[0m")
-    print("\33[32m Speed: ", fan_1.get_speed())
-    print("\33[33m Power: ", fan_1.get_power())
-    print("\33[34m Radius: ", fan_1.get_radius())
-    print("\33[35m Color: ", fan_1.get_color())
+    print("\33[31m\33[1m                                                                      --------Fan 1---------- \33[0m")
+    print("\33[32m                                                                           Speed: ", fan_1.get_speed())
+    print("\33[33m                                                                           Power: ", fan_1.get_power())
+    print("\33[34m                                                                           Radius: ", fan_1.get_radius())
+    print("\33[35m                                                                           Color: ", fan_1.get_color())
+    print("\n\n")
+    # Fan 2
+    fan_1 = Fan(speed = Fan.medium, power = False, radius = 5, color="Blue")
+    print("\33[31m\33[1m                                                                      --------Fan 2---------- \33[0m")
+    print("\33[32m                                                                           Speed: ", fan_1.get_speed())
+    print("\33[33m                                                                           Power: ", fan_1.get_power())
+    print("\33[34m                                                                           Radius: ", fan_1.get_radius())
+    print("\33[35m                                                                           Color: ", fan_1.get_color())
+# Close the program
+    print(de_1.closing_fan())
+
     
