@@ -39,7 +39,7 @@ https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/9
 https://drive.google.com/file/d/1h_LFzOBHYLVu1hlgZus2lakLczDhmaqP/view?usp=drive_link
 
   ## How to run in git bash 🚀?
-  > git clone 
+  > git clone https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class.git
 
   > cd FCP_Fan-class_Car-class_Pet-class/
 
@@ -63,9 +63,14 @@ https://drive.google.com/file/d/1h_LFzOBHYLVu1hlgZus2lakLczDhmaqP/view?usp=drive
 
   > User_Interface.py
   
-# INSTALLATIONS
+# INSTALLATIONS 📥
+- **This program used three installations namely Pyfiglet, Termcolor, and Tqdm. Install it by typing the following in the terminal.**
+> pip install pyfiglet, termcolor, and tqdm
 
 # CREDITS
+- Developed by Maricon Jane G. Laguting from BSCpE 1-4
   ## CONTACTS
-
+- *Facebook*: https://www.facebook.com/mariconjaneglaguting?mibextid=ZbWKwL
+- *Number*: (TM) +63 926 395 2915
+- *Gmail*: lagutingmariconjaneg@gmail.com
 #
