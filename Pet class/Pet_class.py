@@ -1,3 +1,4 @@
+from User_Iterface import user_interface
 # Setup Pet class
 class Pet():
     # Pet's attributes

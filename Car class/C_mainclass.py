@@ -8,7 +8,7 @@ class testCar():
     de_1 = designs("","","","")
     print(de_1.get_brand()) # Display of the brand
     print(de_1.show_welcome()) # Welcome the user
-    print(de_1.loading_bar()) # show the initiation of the fan
+    print(de_1.loading_bar()) # show the initiation of the program
 # Test Car
     car_obj = Car (2021,"A3THER", 0)
     print("\33[31m\33[1m                                                                      -------------CAR's:------------------ \33[0m")

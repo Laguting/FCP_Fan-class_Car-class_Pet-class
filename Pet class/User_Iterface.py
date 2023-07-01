@@ -1,7 +1,7 @@
 from Pet_class import Pet
+pet_changeatt = Pet()
 # Setup User  Interface
-class User_Interface():
-    pet_changeatt = Pet()
+class user_interface():
     # Name of the user's pet
     name = input("\33[32m\33[1m Please input your pet's name: \33[0m")
     pet_changeatt.set_name(name)
