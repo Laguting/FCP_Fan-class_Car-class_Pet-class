@@ -39,6 +39,29 @@ https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/9
 https://drive.google.com/file/d/1h_LFzOBHYLVu1hlgZus2lakLczDhmaqP/view?usp=drive_link
 
   ## How to run in git bash 🚀?
+  > git clone 
+
+  > cd FCP_Fan-class_Car-class_Pet-class/
+
+  > python Fan_class.py
+
+  > F_mainclass.py
+
+  > Designs.py
+
+  > python Car_class.py
+
+  > C_mainclass.py
+
+  > Designs.py
+
+  > python Pet_class.py
+
+  > P_mainclass.py
+
+  > Designs.py
+
+  > User_Interface.py
   
 # INSTALLATIONS
 
