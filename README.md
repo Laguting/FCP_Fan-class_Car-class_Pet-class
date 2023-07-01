@@ -1,5 +1,5 @@
-https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/38f05285-52dd-416b-9606-1baac21db600
-> 💻 The  program contains three(3) different classes that applies the lessons about Abstraction and Encapsulation.
+https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/9695b8a8-0aa9-4ca7-a8c0-36b06cf9e10c
+> 💻 The  program contains three(3) different classes that apply the lessons about Abstraction and Encapsulation.
 
 # DESCRIPTION  📝
   ### "Fan Class"
@@ -27,7 +27,17 @@ https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/3
 5. Lastly, for **Pet class** folder, create four (4) Python files for the **Designs**, **Main file**,**User interface**, and **Pet class**.
 6. Install Installs **pyfiglet**, **termcolor**, and **tqdm**.
 7. Run the program.
-  
+*Sample Pictures*
+![FCP (1)](https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/587fbca2-f046-4786-adfc-396e94adcf70)
+                         *Fan class*
+![FCP (2)](https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/d240e5e2-b84c-4739-ad80-078f5b5b96fd)
+                         *Car class*
+![FCP (3)](https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/722eb8b1-1abb-4399-b91a-720cc4ed0596)
+                         *Pet class*
+
+*Link to Gdrive (Demo Video)*
+https://drive.google.com/file/d/1h_LFzOBHYLVu1hlgZus2lakLczDhmaqP/view?usp=drive_link
+
   ## How to run in git bash 🚀?
   
 # INSTALLATIONS
