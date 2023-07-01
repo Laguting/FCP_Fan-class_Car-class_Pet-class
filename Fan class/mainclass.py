@@ -5,4 +5,7 @@ from Fan_class import Fan
 from Designs import designs
 class Testfan():
     de_1 = designs("","","")
-    print(de_1.get_brand()) # Display of the brand
+    print(de_1.__brand) # Display of the brand
+    print(de_1.__welcome) # Welcome the user
+    print(de_1.__loading) # show the initiation of the fan
+    
