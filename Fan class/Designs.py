@@ -9,11 +9,10 @@ class designs():
         self.__welcome = welcome
         self.__loading = loading
     def get_brand(self):
-        fan_bd = Figlet(font = "digital", justify = "right")
+        fan_bd = Figlet(font = "SMslant", justify = "right")
         print()
         print("⚜ " * 89)
-        print()
-        print(colored(fan_bd.renderText("                                                       A3THER"), "yellow"))
+        print(colored(fan_bd.renderText("                                                               A3THER"), "yellow"))
         return self.__brand
 # Welcome the user
     def show_welcome(self):
@@ -22,8 +21,8 @@ class designs():
         print(colored(s_a_c.renderText("            W e l c o m e              "), "green"))
         print("\33[35m                                                 (\ (\ \33[0m")
         print("\33[35m                                                 („• ֊ •„) ♡ \33[0m")
-        print("\33[35m                                                  ━O━O━━━━━ \33[0m")
-        print("                                                              A3THER")
+        print("\33[35m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━O━O━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \33[0m")
+        print("\33[35m                                                                            please wait.... \33[0m ")
         print()
         print("⚜ " * 89)
         print()
