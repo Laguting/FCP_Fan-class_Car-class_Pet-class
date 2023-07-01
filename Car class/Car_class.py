@@ -12,7 +12,7 @@ class Car():
         self.__speed -= 5
     def get_speed(self): # The get_speed method should return the current speed.
         return self.__speed
-    def set_speed(self):
+    def set_speed(self): # set speed attribute to zero (0)
         self.get_speed = 0
     def get_yearmodel(self):
         return self.__year_model
