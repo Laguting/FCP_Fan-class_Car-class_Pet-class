@@ -13,6 +13,12 @@ https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/3
   - It displays the Car's **Acceleration** and **Brake** five (5) times and performs the operation that if it accelerates the speed increases by five (5). If it brakes the speed decreases by five (5).
   - Has a loading feature for initiation
   - installs **pyfiglet**, **termcolor**, and **tqdm**.
+  ### "Pet Class"
+  - The Pet class folder has four (4) folders for the **Designs**, **Main file**,**User interface**, and **Pet class**.
+  - The program asks for the user's name and essential pieces of information about their pet such as its **Name**, **Type of animal**, and **Age**. The inputs create a summary that will serve as the pet's identification.
+  - It uses **Accessors method** to retrieve the pet's name, animal type, and age which enables the program to display the result.
+  - Has a loading feature for initiation
+  - installs **pyfiglet**, **termcolor**, and **tqdm**.
   ## How to run in IDE 👩🏻‍💻?
   
   
