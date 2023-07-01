@@ -2,7 +2,6 @@
 # BSCpE 1-4
 # Task: follow the instructions for pet class exercise in module 6: encapssulation and abstraction
 from Designs import designs
-from Pet_class import Pet
 from User_Iterface import user_interface
 class tesPet():
 # Designs
