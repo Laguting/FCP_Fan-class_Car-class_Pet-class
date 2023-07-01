@@ -27,6 +27,7 @@ https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/9
 5. Lastly, for **Pet class** folder, create four (4) Python files for the **Designs**, **Main file**,**User interface**, and **Pet class**.
 6. Install Installs **pyfiglet**, **termcolor**, and **tqdm**.
 7. Run the program.
+
 *Sample Pictures*
 ![FCP (1)](https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/587fbca2-f046-4786-adfc-396e94adcf70)
                          *Fan class*
