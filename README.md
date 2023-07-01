@@ -20,7 +20,13 @@ https://github.com/Laguting/FCP_Fan-class_Car-class_Pet-class/assets/129570700/3
   - Has a loading feature for initiation
   - installs **pyfiglet**, **termcolor**, and **tqdm**.
   ## How to run in IDE 👩🏻‍💻?
-  
+1. Copy the codes to your preferred IDE.
+2. Create three (3) folders and name it to your liking, make sure that you'll be able which folder holds the pet, fan, or car class.
+3. From that inside the folder for **Fan class**, create another three (3) Python files for the **Designs**, **Main file**, and **Fan class**.
+4. For the folder that contains **Car class**, create three (3) Python files for the **Designs**, **Main file**, and **Car class**.
+5. Lastly, for **Pet class** folder, create four (4) Python files for the **Designs**, **Main file**,**User interface**, and **Pet class**.
+6. Install Installs **pyfiglet**, **termcolor**, and **tqdm**.
+7. Run the program.
   
   ## How to run in git bash 🚀?
   
