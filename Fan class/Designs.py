@@ -43,7 +43,7 @@ class designs():
         close_fan = Figlet(font = "slant")
         print("\n\33[35m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \33[0m")
         print()
-        print(colored(close_fan.renderText("                        Closing......"), "magenta"))
+        print(colored(close_fan.renderText("                             Closing......"), "magenta"))
         print("\n\33[35m\33[3m\33[1m                                                                 Until next time!... '૮₍ •⤙ •˶|\33[0m")
         print()
         print("⚜ " * 89)
