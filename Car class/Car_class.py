@@ -12,4 +12,8 @@ class Car():
         return self.__speed - 5
     def get_speed(self): # The get_speed method should return the current speed.
         return self.__speed
+    def get_yearmodel(self):
+        return self.__year_model
+    def get_make(self):
+        return self.__make
     
